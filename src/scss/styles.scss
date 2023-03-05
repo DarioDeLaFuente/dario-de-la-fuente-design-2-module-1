@@ -1,0 +1,76 @@
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400&display=swap");
+/////
+
+body {
+  background-image: url("/img/abstract-smooth-empty-grey-studio-well-use-as-background-business-report-digital-website-template-backdrop.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  font-family: "Montserrat", sans-serif;
+}
+
+footer {
+  text-align: center;
+}
+
+.nav-link {
+  color: #333333;
+}
+.nav-link:hover {
+  color: #c70707;
+}
+
+.btn-primary {
+  --bs-btn-color: #c70707;
+  --bs-btn-bg: #fff;
+  --bs-btn-border-color: #fff;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #c70707;
+  --bs-btn-hover-border-color: #c70707;
+}
+
+h1,
+h2 {
+  margin-top: auto;
+  z-index: 99999;
+  color: #c70707;
+}
+
+header img {
+  width: 80px;
+}
+
+.img-galery-box {
+  max-width: 100%;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+}
+
+.product-background {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  -webkit-mask-image: linear-gradient(to bottom, #4e4c4c 45%, transparent 210%);
+  mask-image: linear-gradient(to bottom, #4e4c4c 45%, transparent 210%);
+}
+
+.product-baner-img {
+  background-image: url("/img/pyrex.png");
+}
+
+.product-galery-1-img {
+  background-image: url("/img/ptrex2.png");
+}
+.product-galery-2-img {
+  background-image: url("/img/pyrex3.png");
+}
+
+.product-galery-3-img {
+  background-image: url("/img/pyrex.png");
+}
+
+.product-galery-4-img {
+  background-image: url("/img/pyrex4.png");
+}
