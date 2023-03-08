@@ -34,7 +34,8 @@ h1,
 h2 {
   margin-top: auto;
   z-index: 99999;
-  color: #c70707;
+  color: #fff;
+  text-shadow: 2px 2px 5px #999;
 }
 
 header img {
@@ -56,8 +57,15 @@ header img {
   mask-image: linear-gradient(to bottom, #4e4c4c 45%, transparent 210%);
 }
 
+.product-baner-page-img {
+  background-image: url("/img/Pyrex-product-02.png");
+}
+
 .product-baner-img {
   background-image: url("/img/pyrex.png");
+}
+.product-bottum-baner-img {
+  background-image: url("/img/Pyrex-product-02.png");
 }
 
 .product-galery-1-img {
