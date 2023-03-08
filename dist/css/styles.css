@@ -10808,6 +10808,10 @@ h2,
   text-shadow: 2px 2px 5px #999;
 }
 
+.highlight {
+  color: #c70707;
+}
+
 header img {
   width: 80px;
 }
