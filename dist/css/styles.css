@@ -10810,6 +10810,20 @@ h2,
   text-shadow: 2px 2px 5px #999;
 }
 
+.footer-icon-overlay {
+  right: 0;
+  bottom: 0;
+  max-width: 125px;
+}
+
+.card-icon-overlay {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  padding: 1rem;
+  max-width: 125px;
+}
+
 .highlight {
   color: #c70707;
 }
