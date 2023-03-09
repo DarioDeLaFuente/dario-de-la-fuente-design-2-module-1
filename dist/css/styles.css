@@ -10814,6 +10814,11 @@ h2,
   color: #c70707;
 }
 
+.text-highlight {
+  color: #fff;
+  text-shadow: 2px 2px 5px #000;
+}
+
 header img {
   width: 80px;
 }
