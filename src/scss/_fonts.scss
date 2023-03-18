@@ -1,0 +1,22 @@
+h1,
+h2,
+h5 {
+  font-family: "Montserrat", sans-serif;
+  //font-family: "Lora", serif;
+  font-weight: 700;
+}
+small {
+  font-style: italic;
+}
+.banner-text {
+  color: #fff;
+  text-shadow: 2px 2px 5px #999;
+}
+
+h1,
+h2 {
+  margin-top: auto;
+  z-index: 99999;
+  color: #fff;
+  text-shadow: 2px 2px 5px #999;
+}
